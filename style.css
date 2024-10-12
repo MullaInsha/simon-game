@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #011F3F;
+}.box{
+    height: 10rem;
+    width: 10rem;
+    background-color: red;
+    margin: 1rem;
+    border-radius: 40px;
+    display: inline-block;
+    border: 10px solid black;
+
+    
+}
+.con{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width:35rem;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.first{
+    background-color: green;
+}
+.second{
+background-color: red;
+}
+.third{
+    background-color: yellow;
+}
+.fourth{
+    background-color: blue;
+}
+h1{
+    color: white;
+}
